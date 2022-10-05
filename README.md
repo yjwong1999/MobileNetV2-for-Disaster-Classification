@@ -1,5 +1,5 @@
 # MobileNetV2-for-Disaster-Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1rvrT2SJOzbDsQ6bYu1JqH_GbeLnSHxsd/view?usp=sharing) </br>
+[![Open In Colab](https://colab.research.google.com/drive/1rvrT2SJOzbDsQ6bYu1JqH_GbeLnSHxsd?authuser=1) </br>
 
 This jupyter notebook is to train a lightweight MobileNetV2 model for disaster classification using the [Crisis Image Benchmark Datasets (CrisisIBD)](https://crisisnlp.qcri.org/crisis-image-datasets-asonam20)
 
