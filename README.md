@@ -5,9 +5,9 @@ This jupyter notebook is to train a lightweight MobileNetV2 model for disaster c
 
 ## Training Procedures
 
-I train a MobileNetV2 for Disaster Classification using the procedures as described in the [paper](https://arxiv.org/pdf/2104.04184.pdf). </br>
+A MobileNetV2 is trained for Disaster Classification using the procedures as described in the [paper](https://arxiv.org/pdf/2104.04184.pdf). </br>
 The notable difference is I use weaker augmentations for my training. </br>
-From my experiments, fine-tuning MobileNetV2 (pre-trained on ImageNet) is often less steady if the augmentations are too strong.
+Based on experiments, fine-tuning MobileNetV2 (pre-trained on ImageNet) is often less steady if the augmentations are too strong.
 
 ## Results
 
